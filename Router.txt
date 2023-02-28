@@ -1,0 +1,4 @@
+Marca: Teltonika
+Model: RUT955
+Porta: 7002
+

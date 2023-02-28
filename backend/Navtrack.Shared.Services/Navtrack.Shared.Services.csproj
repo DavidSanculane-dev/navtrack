@@ -1,6 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
     <PropertyGroup>
       <RootNamespace>Navtrack.Common</RootNamespace>
+      <TargetFramework>net6.0</TargetFramework>
     </PropertyGroup>
     <ItemGroup>
         <ProjectReference Include="..\Navtrack.DataAccess.Services\Navtrack.DataAccess.Services.csproj" />
